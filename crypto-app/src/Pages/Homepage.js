@@ -6,7 +6,7 @@ function Homepage() {
   return (
     <div>
 <Banner/>
-<CoinsTable/>
+<CoinsTable/> 
 
     </div>
   )
