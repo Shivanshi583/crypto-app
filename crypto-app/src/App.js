@@ -12,7 +12,7 @@ const useStyles = makeStyles(() => ({
     minHeight: "100vh",
   },
 }));
-
+document.title="Crypto-tracker";
 function App() {
   
     const classes=useStyles();
